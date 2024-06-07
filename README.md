@@ -16,7 +16,7 @@ Daftar Disini https://t.me/seed_coin_bot/app?startapp=1993663749
 
 ## instalasi
 ```shell
->> git clone https://github.com/Punten10/Pixelverse-bot.git
+>> git clone https://github.com/Punten10/SEED-BOT.git
 >> Jalan XAMPP => Klik Start Pada Module Apache
 >> Klik Shell
 # Akan Muncul CMD / Command Prompt XAMPP
@@ -37,6 +37,7 @@ Daftar Disini https://t.me/seed_coin_bot/app?startapp=1993663749
 # Untuk telegram desktop Klik F12 pada webview
 >> Selanjut nya Pilih tab Network pada devtools
 >> Cari profile, balance atau me, lalu pilih Headers scroll kebawah copy semua value Telegram-Data
+>> Setelah di copy Value nya, paste di data.txt
 ```
 ![image](https://github.com/Punten10/SEED-BOT/assets/64400801/13069695-fdd6-43d2-bb77-608ccd216771)
 
